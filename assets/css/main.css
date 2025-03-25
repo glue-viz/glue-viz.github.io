@@ -3134,7 +3134,8 @@
 		/* Box */
 
 			.box.highlight {
-				padding-left: calc(4em + 30px);
+				padding-left: 4em;
+                padding-right: 4em;
 			}
 
 			.box.post .inner {
